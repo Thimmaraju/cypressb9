@@ -7,7 +7,6 @@ Feature:  Validate Login functiionality
 
       Given User lauch the Application
       When  User enter username "Admin" and Password "admin123"
-      And   User click on the Login Button
       Then  User should be navigated to dashboard
 
 

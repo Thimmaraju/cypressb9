@@ -16,7 +16,7 @@ describe('template spec', () => {
 
     cy.visit('https://www.google.com/')
 
-    cy.contains("తెలుగు").click()
+    cy.contains("Kannada").click()
 
     //Assertions
 
